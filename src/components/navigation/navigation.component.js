@@ -22,7 +22,7 @@ const Navigation = () => {
       </div>
       <div>
         <button className='navigationBtn'>login</button>
-        <span><PermIdentityIcon/></span>
+        <PermIdentityIcon/>
       </div>
     </div>
   )
